@@ -8,7 +8,7 @@
 
 2026-03-31，`@anthropic-ai/claude-code` v2.1.88 npm 包因 Bun 构建 bug 意外携带了完整 source map，约 **512,000 行 TypeScript 源码**曝光。本项目从中提取有价值的设计模式，转化为可复用的 skill。
 
-参考分析：[claude-code-source-leak-analysis.md](./claude-code-source-leak-analysis.md) | 设计规划：[skill-ideation-roadmap.md](./skill-ideation-roadmap.md)
+
 
 ---
 
